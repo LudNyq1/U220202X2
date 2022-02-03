@@ -1,4 +1,4 @@
-# Testing git branchea
+# Testing git branches
 ## A repo used to test the features that Git offers!
 
 ## How we testes the git branches feature.
