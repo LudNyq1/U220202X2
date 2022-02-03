@@ -1,5 +1,4 @@
-# Testing git branches
-## A repo used to test the features that Git offers!
+# A repo used to test the features that Git offers!
 
 ## How we testes the git branches feature.
 A template was made on the main branch that each feature would beanch out from.
