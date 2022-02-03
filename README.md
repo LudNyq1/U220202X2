@@ -18,4 +18,4 @@ git merge main
 ```
 Netlify is conected via a pipeline to the prod branch, for automatic updates.
 
-The app was deployed on Netlify: https://friendly-elion-95767d.netlify.app/
+Netlify application: https://friendly-elion-95767d.netlify.app/
